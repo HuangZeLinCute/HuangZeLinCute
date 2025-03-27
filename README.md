@@ -1,5 +1,3 @@
-# 👋 Hello, I'm HuangZeLinCute
-
 ## 📊 GitHub Stats
 
 <div align="center">
