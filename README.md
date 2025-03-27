@@ -18,14 +18,3 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
 </div>
-
-## 🏆 Profile Views
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=HuangZeLinCute&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuangZeLinCute&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
