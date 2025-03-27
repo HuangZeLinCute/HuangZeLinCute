@@ -9,10 +9,6 @@
     </a>
 </div>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=HuangZeLinCute&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ## 📧 Contact Me
 
 <div align="center">
