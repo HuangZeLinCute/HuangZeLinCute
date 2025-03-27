@@ -4,12 +4,9 @@
 
 <div align="center">
     <a href="https://github.com/HuangZeLinCute">
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=HuangZeLinCute&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=HuangZeLinCute&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuangZeLinCute&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
     </a>
 </div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuangZeLinCute&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 
 ## 📧 Contact Me
 
