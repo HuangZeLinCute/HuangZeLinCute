@@ -1,13 +1,37 @@
 # 👋 Hello, I'm HuangZeLinCute
 
 ## 📊 GitHub Stats
+
 <div align="center">
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=HuangZeLinCute&show_icons=true&theme=tokyonight" />
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangZeLinCute&layout=compact&theme=tokyonight" />
+    <a href="https://github.com/HuangZeLinCute">
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=HuangZeLinCute&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
+        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangZeLinCute&layout=compact&theme=tokyonight&border_radius=10" />
+    </a>
 </div>
 
-## 📧 Contact
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:h1418189835@gmail.com)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=HuangZeLinCute&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
-## 🏆 Profile
-![Visitor Count](https://komarev.com/ghpvc/?username=HuangZeLinCute&color=blue)
+## 📧 Contact Me
+
+<div align="center">
+    <a href="mailto:h1418189835@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/HuangZeLinCute">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+</div>
+
+## 🏆 Profile Views
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=HuangZeLinCute&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuangZeLinCute&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</div>
