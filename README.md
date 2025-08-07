@@ -9,7 +9,7 @@
 ## 📧 Contact Me
 
 <div align="center">
-    <a href="mailto:h1418189835@gmail.com">
+    <a href="mailto:zelin_huang@163.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/HuangZeLinCute">
