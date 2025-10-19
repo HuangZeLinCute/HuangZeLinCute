@@ -8,15 +8,6 @@
       height="170"
     />
   </a>
-  <a href="https://github.com/HuangZeLinCute">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangZeLinCute&layout=compact&theme=tokyonight&border_radius=12&hide_border=true"
-      alt="Top Languages"
-      height="170"
-    />
-  </a>
-</div>
-
 ---
 
 ## 📬 Contact Me
